@@ -33,8 +33,6 @@ This project is a Netflix app clone built in React.js using the MovieDB API. It 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-[MIT License](LICENSE)
 
 ## Screenshots
 ![Screenshot 1](screenshots/screenshot1.png)
