@@ -1,4 +1,4 @@
-# Netflix App Clone
+# Movie App 
 
 ## Description
 This project is a Netflix app clone built in React.js using the MovieDB API. It allows users to browse and search for movies and TV shows, view details about each title, and watch trailers.
